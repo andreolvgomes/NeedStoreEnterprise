@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fnHakOsf4eTbOcEVw4UXxfQ8FFKwyPHVV0wXS/Xd9Xn/aonQcj2eifC5mS4YTqvyyhnmAKlSJbMWuylRT1MZCg==",
+  "success": true,
+  "projectFilePath": "C:\\NeedStoreEnterprise\\src\\services\\NSE.Catalago.API\\NSE.Catalago.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\André\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\André\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

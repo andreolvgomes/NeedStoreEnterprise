@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oinqL8vjMNYkKtH1HZZaHkhqKleAzJSPiEtCqWIkWsYBUiDa/uTAIvZgmfXt9ibDjK51GSF+s20sZF5+dpGgw==",
+  "success": true,
+  "projectFilePath": "C:\\NeedStoreEnterprise\\src\\services\\NSE.Cliente.API\\NSE.Cliente.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\André\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\André\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
