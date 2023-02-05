@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3dcZ1eyD7yLmG78cd2+xloCrMlCt993WPKBMk2W49x3pqCP0DMCe93MdnlKnO4Tm/e7eA4vOjygMV8Os43+I9A==",
+  "success": true,
+  "projectFilePath": "C:\\NeedStoreEnterprise\\src\\services\\NSE.Pedidos.API\\NSE.Pedidos.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\André\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\André\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

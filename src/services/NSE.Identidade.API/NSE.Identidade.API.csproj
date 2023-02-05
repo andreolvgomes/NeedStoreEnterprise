@@ -1,17 +1,29 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>2cce4d20-7727-445a-8dd4-2117dc32dd84</UserSecretsId>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>63177e13-9cf8-40d2-b464-82ea6abb6ccf</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>..\..\..</DockerfileContext>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.0" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.7" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.7">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
+	  <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.8" />
+	  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.7" />
+	  <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.7" />
+	  <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.7" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.7" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="3.1.7" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.7" />
+	  <PackageReference Include="NetDevPack.Security.JwtSigningCredentials.AspNetCore" Version="1.0.3" />
+	  <PackageReference Include="NetDevPack.Security.JwtSigningCredentials.Store.EntityFrameworkCore" Version="1.0.3" />
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
   </ItemGroup>
+
 
 </Project>
