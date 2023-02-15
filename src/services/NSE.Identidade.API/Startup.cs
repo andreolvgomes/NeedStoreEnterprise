@@ -27,6 +27,7 @@ namespace NSE.Identidade.API
             services.AddIdentityConfiguration(Configuration);
             services.AddApiConfiguration();
             services.AddApiSwaggerConfig();
+            services.AddMessageBusConfiguration(Configuration);
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

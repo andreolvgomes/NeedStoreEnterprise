@@ -80,3 +80,17 @@ C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\N
 C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.dll
 C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
 C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.genruntimeconfig.cache
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NetDevPack.Security.JwtExtensions.dll
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
+C:\NeedStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
